@@ -1,5 +1,5 @@
 # physical-attack
-针对人脸、车牌、路牌识别系统的物理攻击
+针对人脸、车牌、路牌识别系统和行人目标检测器的物理攻击
 ===
 Physical attack on face, license plate and road sign recognition system
 ===
@@ -16,3 +16,7 @@ license plate-attack
 road sign-attack
 ---
 ![road sign-attack](https://github.com/ssssssj/physical-attack/blob/master/%20road%20sign-attack.gif)
+
+pedestrian detector-attack
+---
+![pedestrian detector-attack](https://github.com/ssssssj/physical-attack/blob/master/nobody_隐身衣_项目视频~2.gif)
