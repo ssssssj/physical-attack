@@ -1,7 +1,7 @@
 # physical-attack
 针对人脸、车牌、路牌识别系统和行人目标检测器的物理攻击
 ===
-Physical attack on face, license plate and road sign recognition system
+Physical attack on face, license plate, road sign recognition system and pedestrian detection system
 ===
 如下展示了三种攻击的表现形式，更具体的视频展现可见[百度网盘网址](https://pan.baidu.com/s/1-qqSIzfmbHJmWPYACfo7QQ)，提取码：0h9k
 
